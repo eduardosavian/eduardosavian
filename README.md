@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi, I'm a Computer Science Student, the vast majority of these repositories are works done or in process of being done for university activities. The rest are projects to find out more about a particular tool.
 
-<!--
-**EduardoSaviandeOliveira/EduardoSaviandeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I invite you to know more about my works.**
 
-Here are some ideas to get you started:
+My knowledge of most programming languages is not very great, but I know or have used them in the last two years, in order of knowledge:
+- Python (Flask, FastAPI, Pandas, Matplotlib, Numpy and Scikit-Learn);
+- Java/Kotlin (Spring Boot); 
+- Julia
+- C++;
+- Assebly (MIPS 32Bits);
+- JavaScript;
+- C#; 
+- R;
+- C.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also know how to deal with git, HTML/CSS (including Bootstrap framework) and SQL (mainly the MySQL and SQLite database). 
+
+My native language is portuguese, but my english is advanced and I'm in the process of learning german, currently I know the basics of it.
+
+Page: https://github.com/EduardoSaviandeOliveira/EduardoSaviandeOliveira.github.io (I'm writing everything because it's not good)
+
+Linkedin: https://www.linkedin.com/in/eduardo-savian-de-oliveira-6b8957208/
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSaviandeOliveira&theme=dark&show_icons=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSaviandeOliveira&theme=dark&show_icons=true&layout=compact)
+<!--(https://github.com/EduardoSaviandeOliveira)-->
