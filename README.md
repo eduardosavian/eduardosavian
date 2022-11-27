@@ -6,7 +6,8 @@ My knowledge of most programming languages is not very great, but I know or have
 - Python (Flask/FastAPI, Pandas, Matplotlib, Selenium, Numpy e Scikit-Learn);
 - Java/Kotlin (Spring Boot);
 - JavaScript/TypeScript;
-- C#/VB.net;
+- C#;
+- VB .net;
 - Julia;
 - C++;
 - Assebly (MIPS 32Bits);
