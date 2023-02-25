@@ -2,18 +2,20 @@ Hi, I'm a Computer Science Student, the vast majority of these repositories are 
 
 **I invite you to know more about my works.**
 
-My knowledge of most programming languages is not very great, but I know or have used them in the last two years, in order of knowledge:
+I use or have used the following tools and frameworks, in descending order of knowledge:
 - Python (Flask/FastAPI, Pandas, Matplotlib, Selenium, Numpy e Scikit-Learn);
+- .Net
 - Java/Kotlin (Spring Boot);
+- C/C++;
 - JavaScript/TypeScript;
-- C#;
-- VB .net;
 - Julia;
-- C++;
-- Assebly (MIPS 32Bits);
-- C.
+- Assebly MIPS.
 
-I also know how to deal with git, HTML/CSS (including Bootstrap framework) and SQL (mainly the MySQL and SQLite database). 
+For versioning tool I use git along with github and OS Linux (Debian/derivados, Fedora e Arch/derivados) e Windows.
+
+I also know how to deal with HTML/CSS (including Bootstrap framework) and SQL (mainly the MySQL database and SQLite).
+
+I know how to use the Office package.
 
 My native language is portuguese, but my english is advanced and I'm in the process of learning german, currently I know the basics of it.
 
