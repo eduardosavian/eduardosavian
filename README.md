@@ -9,7 +9,7 @@ I use or have used the following tools and frameworks, in descending order of kn
 - C/C++;
 - JavaScript/TypeScript;
 - Julia;
-- Assebly MIPS.
+- Assebly MIPS/RISCV.
 
 For versioning tool I use git along with github and OS Linux (Debian/derivados, Fedora e Arch/derivados) e Windows.
 
