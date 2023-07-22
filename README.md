@@ -23,6 +23,6 @@ Page: [My page](https://EduardoSaviandeOliveira.github.io) (I'm writing everythi
 
 Linkedin: https://www.linkedin.com/in/eduardo-savian-de-oliveira-6b8957208/
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSaviandeOliveira&theme=dark&show_icons=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSaviandeOliveira&theme=dark&show_icons=true&layout=compact)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosavian&theme=dark&show_icons=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosavian&theme=dark&show_icons=true&layout=compact)
 <!--(https://github.com/EduardoSaviandeOliveira)-->
