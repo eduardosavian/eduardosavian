@@ -19,9 +19,9 @@ I know how to use the Office package.
 
 My native language is portuguese, but my english is advanced and I'm in the process of learning german, currently I know the basics of it.
 
-Page: [My page](https://EduardoSaviandeOliveira.github.io) (I'm writing everything because it's not good)
+Page: [My page](https://eduardosavian.github.io) (I'm writing everything because it's not good)
 
-Linkedin: https://www.linkedin.com/in/eduardo-savian-de-oliveira-6b8957208/
+Linkedin: https://www.linkedin.com/in/eduardo-savian/
 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosavian&theme=dark&show_icons=true&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosavian&theme=dark&show_icons=true&layout=compact)
