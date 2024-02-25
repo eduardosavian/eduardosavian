@@ -4,6 +4,5 @@ Hi, I'm a Computer Science Student, the vast majority of these repositories are 
 
 Linkedin: https://www.linkedin.com/in/eduardo-savian/
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosavian&theme=dark&show_icons=true&layout=compact)
+<!--![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosavian&theme=dark&show_icons=true&layout=compact)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosavian&theme=dark&show_icons=true&layout=compact)
-<!--(https://github.com/EduardoSaviandeOliveira)-->
